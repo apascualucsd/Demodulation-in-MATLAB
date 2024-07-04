@@ -10,7 +10,7 @@ My role: (The code included and as seen in the PDF)
 
 ## Acknowledgements: 
 
-My partner's role: (As seen in the PDF) 
+My partner's role: (As seen in the PDF) [Uriberto Lopez] urlopez@ucsd.edu
 - Applications of the signal
 - Demodulation Block Diagram
 - Bit Error Rate analysis 

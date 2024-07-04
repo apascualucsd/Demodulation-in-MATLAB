@@ -1,8 +1,7 @@
 # Demodulation-in-MATLAB
 Demodulate an unknown modulation scheme 
 
-Demodulate a simple real-life signal using the concepts taught in the
-course. We have provided an I/Q sample file
+Demodulate a simple real-life signal demodulated with an unknown modulation scheme and detect the data using a known preamble file
 
 My role: 
 - Signal Identification

@@ -6,7 +6,7 @@ Demodulate a simple real-life signal demodulated with an unknown modulation sche
 My role: (The code included and as seen in the PDF) 
 - Signal Identification
 - Demodulation Method
-- Demodulation Implmentation
+- Demodulation Implementation
 
 ## Acknowledgements: 
 
